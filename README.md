@@ -2,12 +2,13 @@
  * Union Find
  * BST
  * B-Tree
+ * Priority Queues
 
 ##TODO
  * Red-Black Trees
  * AVL Trees
- * Priority Queues
  * Graphs
+ * Segment Trees
 
 ##Contributing 
 
